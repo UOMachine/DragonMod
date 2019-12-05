@@ -1,0 +1,70 @@
+english email @AwA regarding Dragon              
+
+first: i am not the windows programmer of the Dragon version, I wrote unix dragon and still sometime use this one. so i dont have completely knowledge about WinDragon. 
+
+--- sam k <kirby_sam@hotmail.com> wrote: 
+> I'm currently wasting away my time on dragon and I 
+> am using mod 9 with the 
+> tables in which you put time into. I've learnt a 
+> little about how it works 
+> and know just about how to make it so i can assign 
+> different z values to 
+> colours so I can customize my developement. However 
+> there are a few things 
+> I'd like to ask. 
+> 
+> 1. Shouldn't there be a cave2water.txt? I know 
+> that it is possible to have 
+> little lakes in caves. I can do this in worldforge. 
+> I've been experimenting 
+> myself to see if I can insert one, but I doubt that 
+> that is all I need to do. 
+- cave to water is not necessary because all X2Water is not map0.mul inserted, X2Water is allways covered with static shore tiles. at the other hand, u can make yourself a cave2water between translation, so learn how to trick. for me i.e. i sometimes use same terrain tiles at same altitude but with different hexcode inside the bmp file only for creating some special effekts for the between convertion. nearly same usage i.e. for grass which some grass i want to have uneven and some i want to have plain. I never use the rectancle unevenly feature, i only paint it with different colors because mostly i did not have rectancles. This is also important for the static placements. so put your special i.e. grass colors outside of the grass group to avoid placing statics on them (or completely different statics :) ) Can u follow me? 
+
+> 2. How would someone change the pattern which shows 
+> on the map overview. 
+> Dragon seems to imprint this pattern over all of the 
+> map on tiles such as 
+> grass and mountain and I guess it's something to do 
+> with how random tiles on 
+> those tile groups are placed onto the map. 
+- I cant follow you, need more explainations. Which pattern did u mean? 
+
+> Also, cave wall at 20z is broke. It appears on the 
+> map as desert walkway. I 
+> think this was a problem in earlier versions if I 
+> recall correctly. 
+- need screenshots. I cant follow you, need more explainations. 
+
+> One last thing is how coastlines don't nessesarily 
+> look like osi coastlines, 
+> they're kinda have holes in, in places. Is there a 
+> fix to this. yeah yeah, i 
+> know this has been as it has always been in dragon 
+> but my priority in map 
+> making is looks and I'm trying to decrease the 
+> amount of worldforge work 
+> (where i make everything osi-like and pretty) i need 
+> to do after dragon 
+> work. 
+this is hardcoded and i dunno if this is allready fixed or fixed in the future. I wrote a perlscript which is scanning the map0.mul and writes new shore statics. 
+
+
+> Any responce would be thankful :) 
+> 
+> Thaal 
+> -TSSE Map Builder- 
+> www.tsse.net 
+> 
+> 
+
+TO: kirby_sam@hotmail.com
+
+I heard that you emailed AwA asking about aspects of Dragon and the mod 9 for Dragon. Since I am the creator of the mod 9 I wanted to ask you about the bugs you possibly found. I also have a way to help prevent "patterning" in the map. If you could reply back, or contact me on ICQ 2006722 (I'm always invisible so make sure to leave a message) or you can post a mesage on my forums at www.ryandor.com
+
+-Ryandor
+ryandor@ryandor.com
+
+
+Map Cartography by GM Agrias 
+http://www.tsse.net/html/guide/map.htm

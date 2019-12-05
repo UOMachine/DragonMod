@@ -1,0 +1,14 @@
+non valid transitions
+
+grass2snow
+grass2cavefloor
+grass2cobblestone
+
+
+jungle2rock
+jungle2water
+
+sandbrick2grass ew
+
+darkbrick2sand ew
+darkbrick2sand ns

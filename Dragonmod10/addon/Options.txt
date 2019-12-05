@@ -1,0 +1,36 @@
+Mod 10 Options
+maptrans.txt
+
+T2A cliffs:
+grass/grass
+**grass/dirt
+forest/forest
+forest/dirt
+grass/forest
+**jungle/dirt
+jungle/grass
+jungle2jungle
+
+snow2dirt
+
+
+Group 10
+Wood Floor Light E/W 
+Wood Floor Light N/S
+
+Group 11
+Wood Floor Dark E/W
+Wood Floor Dark N/S
+
+Group 12
+Sandstone floor plate light
+Sandstone floor plate dark
+
+Group 14
+Sandstone Brick E/W - bugged
+Sandstone Brick N/S
+
+Group 15
+Dark Brick E/W - bugged
+Dark Brick N/S - bugged
+

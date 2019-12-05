@@ -1,0 +1,60 @@
+V1.03.62 Beta
+----------------------------------------
+Item placer fixed again (work now with more than 10 items/block)
+
+
+V1.03.61 Beta
+----------------------------------------
+Item placer fixed (work now with more than 10 items/block)
+
+
+V1.03.60 Beta
+----------------------------------------
+Added making areas unevenly option
+Added Grass2Swamp translation
+Item placer fixed
+Fixed MAP2BMP program
+
+
+V1.03.51 Beta
+----------------------------------------
+Coast scripts fixed
+
+
+V1.03.50 Beta
+----------------------------------------
+Fixed crashbug (sometimes statics2/statics3)
+Readded UOX script-format
+MAP2BMP program added
+The item-placer has got now a frequency value
+The item-placer can now handle up to 50 items in one block
+Better coast-scripts at west & north
+
+
+V1.03.00 Beta
+----------------------------------------
+New custom item-placer
+Added swamp to maptrans.txt
+Removed the UOX fileformat (because they don't need anybody). 
+Now clean old statics
+Added new colortable
+Added high priority mode (6-8% faster, but no status bar)
+
+V1.02.00 Beta
+----------------------------------------
+Fixed BMP reader
+Added some walls
+Added Dirt2Cobble table
+Fixed some bugs in the maptrans.txt (Lava & Dirt)
+Fixed some tables
+
+V1.01.00 Beta
+----------------------------------------
+Adding UOSP Special Dragon Edition
+Adding a new table (dirt2cobble)
+Fixed some tables
+Create now items on landscape (trees's, stones..., what you want)
+
+V1.00.00 Beta
+----------------------------------------
+This was my first public release...

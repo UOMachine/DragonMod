@@ -1,0 +1,119 @@
+
+Group 00 - Grass
+[img]http://www.ryandor.com/mod10/tiles/grass1.png[/img][img]http://www.ryandor.com/mod10/tiles/grass2.png[/img][img]http://www.ryandor.com/mod10/tiles/grass3.png[/img][img]http://www.ryandor.com/mod10/tiles/grass4.png[/img]
+
+Group 01 - Forest
+[img]http://www.ryandor.com/mod10/tiles/forest1.png[/img][img]http://www.ryandor.com/mod10/tiles/forest2.png[/img][img]http://www.ryandor.com/mod10/tiles/forest3.png[/img][img]http://www.ryandor.com/mod10/tiles/forest4.png[/img]
+
+Group 02 - Water
+[img]http://www.ryandor.com/mod10/tiles/water1.png[/img][img]http://www.ryandor.com/mod10/tiles/water2.png[/img][img]http://www.ryandor.com/mod10/tiles/water3.png[/img][img]http://www.ryandor.com/mod10/tiles/water4.png[/img]
+
+Group 03 - Swamp
+[img]http://www.ryandor.com/mod10/tiles/swamp1.png[/img][img]http://www.ryandor.com/mod10/tiles/swamp2.png[/img][img]http://www.ryandor.com/mod10/tiles/swamp3.png[/img][img]http://www.ryandor.com/mod10/tiles/swamp4.png[/img]
+
+Group 04 - Black unwalkable
+[img]http://www.ryandor.com/mod10/tiles/black.png[/img]
+
+Group 05 - Sand
+[img]http://www.ryandor.com/mod10/tiles/sand1.png[/img][img]http://www.ryandor.com/mod10/tiles/sand2.png[/img][img]http://www.ryandor.com/mod10/tiles/sand3.png[/img][img]http://www.ryandor.com/mod10/tiles/sand4.png[/img]
+
+Group 06 - Snow
+[img]http://www.ryandor.com/mod10/tiles/snow1.png[/img][img]http://www.ryandor.com/mod10/tiles/snow2.png[/img][img]http://www.ryandor.com/mod10/tiles/snow3.png[/img][img]http://www.ryandor.com/mod10/tiles/snow4.png[/img]
+
+Group 07 - Jungle
+[img]http://www.ryandor.com/mod10/tiles/jungle1.png[/img][img]http://www.ryandor.com/mod10/tiles/jungle2.png[/img][img]http://www.ryandor.com/mod10/tiles/jungle3.png[/img][img]http://www.ryandor.com/mod10/tiles/jungle4.png[/img]
+
+Group 08 - Dirt
+[img]http://www.ryandor.com/mod10/tiles/dirt1.png[/img][img]http://www.ryandor.com/mod10/tiles/dirt2.png[/img][img]http://www.ryandor.com/mod10/tiles/dirt3.png[/img][img]http://www.ryandor.com/mod10/tiles/dirt4.png[/img][img]http://www.ryandor.com/mod10/tiles/dirt5.png[/img][img]http://www.ryandor.com/mod10/tiles/dirt6.png[/img][img]http://www.ryandor.com/mod10/tiles/dirt7.png[/img][img]http://www.ryandor.com/mod10/tiles/dirt8.png[/img]
+
+Group 09 - Cavefloor
+[img]http://www.ryandor.com/mod10/tiles/cavefloor1.png[/img][img]http://www.ryandor.com/mod10/tiles/cavefloor2.png[/img][img]http://www.ryandor.com/mod10/tiles/cavefloor3.png[/img][img]http://www.ryandor.com/mod10/tiles/cavefloor4.png[/img][img]http://www.ryandor.com/mod10/tiles/cavefloor5.png[/img]
+
+Group 0a Rock/Mountain
+[img]http://www.ryandor.com/mod10/tiles/rock1.png[/img][img]http://www.ryandor.com/mod10/tiles/rock2.png[/img][img]http://www.ryandor.com/mod10/tiles/rock3.png[/img][img]http://www.ryandor.com/mod10/tiles/rock4.png[/img]
+
+Group 0b - Dungeon Floor Plates Light
+[img]http://www.ryandor.com/mod10/tiles/dungeonfloorlight1.png[/img][img]http://www.ryandor.com/mod10/tiles/dungeonfloorlight2.png[/img][img]http://www.ryandor.com/mod10/tiles/dungeonfloorlight3.png[/img][img]http://www.ryandor.com/mod10/tiles/dungeonfloorlight4.png[/img]
+
+Group 0c - Dungeon Floor Plates Medium
+[img]http://www.ryandor.com/mod10/tiles/dungeonfloormed1.png[/img][img]http://www.ryandor.com/mod10/tiles/dungeonfloormed2.png[/img][img]http://www.ryandor.com/mod10/tiles/dungeonfloormed3.png[/img][img]http://www.ryandor.com/mod10/tiles/dungeonfloormed4.png[/img]
+
+Group 0d - Dungeon Floor Plates Dark
+[img]http://www.ryandor.com/mod10/tiles/dungeonfloordark1.png[/img][img]http://www.ryandor.com/mod10/tiles/dungeonfloordark2.png[/img][img]http://www.ryandor.com/mod10/tiles/dungeonfloordark3.png[/img][img]http://www.ryandor.com/mod10/tiles/dungeonfloordark4.png[/img]
+
+Group 0e - Grass Bump
+[img]http://www.ryandor.com/mod10/tiles/grassbump1.png[/img][img]http://www.ryandor.com/mod10/tiles/grassbump2.png[/img][img]http://www.ryandor.com/mod10/tiles/grassbump3.png[/img][img]http://www.ryandor.com/mod10/tiles/grassbump4.png[/img]
+
+Group 0f - Cobblestone
+[img]http://www.ryandor.com/mod10/tiles/cobblestone1.png[/img][img]http://www.ryandor.com/mod10/tiles/cobblestone2.png[/img][img]http://www.ryandor.com/mod10/tiles/cobblestone3.png[/img][img]http://www.ryandor.com/mod10/tiles/cobblestone4.png[/img]
+
+Group 10 - Wooden Floorboards Light east/west
+[img]http://www.ryandor.com/mod10/tiles/woodfloorlightew1.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloorlightew2.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloorlightew3.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloorlightew4.png[/img]
+
+Group 10 optional - Wooden Floorboards Light north/south
+[img]http://www.ryandor.com/mod10/tiles/woodfloorlightns1.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloorlightns2.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloorlightns3.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloorlightns4.png[/img]
+
+Group 11 - Wooden Floorboards Dark east/west
+[img]http://www.ryandor.com/mod10/tiles/woodfloordarkew1.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloordarkew2.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloordarkew3.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloordarkew4.png[/img]
+
+Group 11 optional - Wooden Floorboards Dark north/south
+[img]http://www.ryandor.com/mod10/tiles/woodfloordarkns1.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloordarkns2.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloordarkns3.png[/img][img]http://www.ryandor.com/mod10/tiles/woodfloordarkns4.png[/img]
+
+Group 12 - Sandstone Floorplate Light
+[img]http://www.ryandor.com/mod10/tiles/sandstonefloorlight1.png[/img][img]http://www.ryandor.com/mod10/tiles/sandstonefloorlight2.png[/img]
+
+Group 12 optional - Sandstone Floorplate Dark
+[img]http://www.ryandor.com/mod10/tiles/sandstonefloordark1.png[/img][img]http://www.ryandor.com/mod10/tiles/sandstonefloordark2.png[/img]
+
+Group 13 - Marble
+[img]http://www.ryandor.com/mod10/tiles/marblefloor1.png[/img][img]http://www.ryandor.com/mod10/tiles/marblefloor2.png[/img][img]http://www.ryandor.com/mod10/tiles/marblefloor3.png[/img][img]http://www.ryandor.com/mod10/tiles/marblefloor4.png[/img]
+
+Group 14 - Sandstone Brick east/west
+[img]http://www.ryandor.com/mod10/tiles/sandstonebrickew1.png[/img][img]http://www.ryandor.com/mod10/tiles/sandstonebrickew2.png[/img][img]http://www.ryandor.com/mod10/tiles/sandstonebrickew3.png[/img][img]http://www.ryandor.com/mod10/tiles/sandstonebrickew4.png[/img]
+
+Group 14 optional - Sandstone Brick north/south
+[img]http://www.ryandor.com/mod10/tiles/sandstonebrickns1.png[/img][img]http://www.ryandor.com/mod10/tiles/sandstonebrickns2.png[/img][img]http://www.ryandor.com/mod10/tiles/sandstonebrickns3.png[/img][img]http://www.ryandor.com/mod10/tiles/sandstonebrickns4.png[/img]
+
+Group 15 - Dark Brick east/west
+[img]http://www.ryandor.com/mod10/tiles/darkbrickew1.png[/img][img]http://www.ryandor.com/mod10/tiles/darkbrickew2.png[/img][img]http://www.ryandor.com/mod10/tiles/darkbrickew3.png[/img][img]http://www.ryandor.com/mod10/tiles/darkbrickew4.png[/img]
+
+Group 15 optional - Dark Brick north/south
+[img]http://www.ryandor.com/mod10/tiles/darkbrickns1.png[/img][img]http://www.ryandor.com/mod10/tiles/darkbrickns2.png[/img][img]http://www.ryandor.com/mod10/tiles/darkbrickns3.png[/img][img]http://www.ryandor.com/mod10/tiles/darkbrickns4.png[/img]
+
+Group 16 - Rough Grass
+[img]http://www.ryandor.com/mod10/tiles/roughgrass1.png[/img][img]http://www.ryandor.com/mod10/tiles/roughgrass2.png[/img][img]http://www.ryandor.com/mod10/tiles/roughgrass3.png[/img][img]http://www.ryandor.com/mod10/tiles/roughgrass4.png[/img]
+
+Group 17 - Starfield
+[img]http://www.ryandor.com/mod10/tiles/starfield1.png[/img][img]http://www.ryandor.com/mod10/tiles/starfield2.png[/img][img]http://www.ryandor.com/mod10/tiles/starfield3.png[/img][img]http://www.ryandor.com/mod10/tiles/starfield4.png[/img][img]http://www.ryandor.com/mod10/tiles/starfield5.png[/img][img]http://www.ryandor.com/mod10/tiles/starfield6.png[/img]
+
+Group 18 - Cave Entrance Black
+[img]http://www.ryandor.com/mod10/tiles/caveentranceblack.png[/img]
+
+Group 19 - Cave Entrance Invisible
+[img]http://www.ryandor.com/mod10/tiles/caveentranceinvis.png[/img]
+
+Group 1a - Lava
+[img]http://www.ryandor.com/mod10/tiles/lava1.png[/img][img]http://www.ryandor.com/mod10/tiles/lava2.png[/img][img]http://www.ryandor.com/mod10/tiles/lava3.png[/img]
+
+Group 1b - Cellar
+[img]http://www.ryandor.com/mod10/tiles/cellar1.png[/img][img]http://www.ryandor.com/mod10/tiles/cellar2.png[/img][img]http://www.ryandor.com/mod10/tiles/cellar3.png[/img][img]http://www.ryandor.com/mod10/tiles/cellar4.png[/img]
+
+Group 1c - Furrows
+[img]http://www.ryandor.com/mod10/tiles/furrows.png[/img]
+
+Group 1d - Cave Wall
+[img]http://www.ryandor.com/mod10/tiles/cavewall1.png[/img][img]http://www.ryandor.com/mod10/tiles/cavewall2.png[/img][img]http://www.ryandor.com/mod10/tiles/cavewall3.png[/img][img]http://www.ryandor.com/mod10/tiles/cavewall4.png[/img]
+
+Group 1e - No-Draw
+[img]http://www.ryandor.com/mod10/tiles/nodraw.png[/img]
+
+
+
+
+
+
+
+
+
+
+
