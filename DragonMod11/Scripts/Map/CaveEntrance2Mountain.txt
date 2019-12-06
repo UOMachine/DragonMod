@@ -1,0 +1,19 @@
+//Mod10 Stormcrow
+//Center conversion
+AAAAAAAA 01db 020 020
+// S TileA N TileB
+BBBAAAAA 01d4 025 025
+// E TileA W TileB
+BAAAAABB 01da 025 025
+// W TileA E TileB
+AABBBAAA 01d6 025 025
+// N TileA S TileB
+AAAABBBA 01d8 025 025
+// NW corner is TileA
+AABBBBBA 01d7 025 025
+// SW corner is TileA
+BBBBBAAA 01d5 025 025
+// SE corner is TileA
+BBBAAABB 01d3 025 025
+// NE corner is TileA
+BAAABBBB 01d9 025 025

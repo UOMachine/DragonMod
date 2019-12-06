@@ -1,0 +1,61 @@
+//04 03 black2dun.txt
+09 06 dirt2mountain.txt
+09 02 dirt2water.txt
+01 09 forest2dirt.txt
+01 08 forest2jungle.txt
+01 06 forest2mountain.txt
+01 05 forest2sand.txt
+01 02 forest2water.txt
+00 0a grass2cobble.txt
+00 09 grass2dirt.txt
+00 01 grass2forest.txt
+00 08 grass2jungle.txt
+00 06 grass2mountain.txt
+00 05 grass2sand.txt
+00 07 grass2snow.txt
+00 18 grass2swamp.txt
+// light coasts
+//00 02 grass2water-light.txt
+// dark coasts
+00 02 grass2water-dark.txt
+08 09 jungle2dirt.txt
+08 02 jungle2water.txt
+05 08 sand2jungle.txt
+05 09 sand2dirt.txt
+05 06 sand2mountain.txt
+05 0b sand2red.txt
+05 02 sand2water.txt
+0e 10 sandstone2lava.txt
+14 10 sandstone2lava.txt
+12 10 sandstone2lava.txt
+11 10 sandstone2lava.txt
+0f 10 sandstone2lava.txt
+07 09 snow2dirt.txt
+07 06 snow2mountain.txt
+07 02 snow2water.txt
+09 0a dirt2cobble.txt
+//grass to grass bump:
+00 19 grass2grassbump.txt
+19 02 grass2water-dark.txt
+19 01 grass2forest.txt
+19 05 grass2sand.txt
+19 09 grass2dirt.txt
+19 06 grass2mountain.txt
+19 08 grass2jungle.txt
+19 07 grass2snow.txt
+//fixed cave edges:
+04 03 black2dunnew.txt
+//cave entrances:
+1a 06 cave-ent2mountain.txt
+1d 06 cave-enti2mountain.txt
+//new transition:
+03 09 cave2dirt.txt
+//forest2swamp mod:
+01 18 forest2swamp.txt
+//farmlands/furrows
+00 1c grass2furrows.txt
+19 1c grassb2furrows.txt
+//1c 00 furrows2grass.txt
+//1c 19 furrows2grassb.txt
+00 20 grass2rgrass.txt
+20 18 rgrass2swamp.txt

@@ -1,0 +1,29 @@
+ Volume in drive H is 80_DATA
+ Volume Serial Number is C427-71A2
+
+ Directory of H:\dev\~newmod\mod9Plus\Scripts\statics
+
+06/30/2003  10:24 PM    <DIR>          .
+06/30/2003  10:24 PM    <DIR>          ..
+06/30/2003  10:24 PM                 0 dir.txt
+06/26/2003  12:57 AM             1,438 rock2dirt.txt
+06/30/2003  09:38 PM             1,438 rock2forest.txt
+06/26/2003  12:57 AM             1,438 rock2grass.txt
+06/26/2003  12:57 AM             1,438 rock2grassb.txt
+06/26/2003  12:57 AM             1,438 rock2jungle.txt
+06/30/2003  09:41 PM             1,438 rock2mountain.txt
+06/26/2003  12:57 AM             1,438 rock2rgrass.txt
+06/30/2003  09:42 PM             1,438 rock2sand.txt
+06/30/2003  09:41 PM             1,438 rock2snow.txt
+06/26/2003  12:57 AM             1,438 star2dirt.txt
+06/30/2003  09:38 PM             1,438 star2forest.txt
+06/26/2003  12:57 AM             1,438 star2grass.txt
+06/26/2003  12:57 AM             1,438 star2grassb.txt
+06/26/2003  12:57 AM             1,438 star2jungle.txt
+06/30/2003  09:41 PM             1,438 star2mountain.txt
+06/26/2003  12:57 AM             1,438 star2rgrass.txt
+06/26/2003  12:57 AM             1,438 star2rock-.txt
+06/30/2003  09:42 PM             1,438 star2sand.txt
+06/30/2003  09:41 PM             1,438 star2snow.txt
+              20 File(s)         27,322 bytes
+               2 Dir(s)  33,828,524,032 bytes free

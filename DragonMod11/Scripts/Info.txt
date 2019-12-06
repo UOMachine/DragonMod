@@ -1,0 +1,42 @@
+// (00) Grass 3-6
+// (01) Forest c4-c7
+// (02) Water (Static Z is 10 higher, so read -5 to 35)
+// (03) Cave Floor 245-249
+// (04) Black
+// (05) Desert 16-19
+// (06) Mountain 22c-22f
+// (07) Snow 11a-11d
+// (08) Jungle ac-af
+// (09) Dirt 75-78
+// (0a) Cobblestones 3e9-3ec
+// (0b) Planks
+// (0c) Dark Sandstone Floorplate 444-445
+// (0d) Flagstone 4eb-4ee
+// (0e) Dungeon (Brown Stone Floorplate)43e-441
+// (0f) Pyramid (Light Sandstone Floorplate) 442-443
+// (10) Lava 1f4-1f7
+// (11) Medium Stone Floorplate 43a-43d
+// (12) Light Stone Floorplate 436-439
+// (13) Ocean a8-ab
+// (14) White Marble 4ef-4f2
+// (15) Dark Wood 406-409
+// (16) Light Wood 40e-411
+// (17) Moss 3ded-3df0
+// (18) Swamp 3de9-3dec
+// (19) Grassbump (Makes cliffs)
+// (1a) Light Sandstone Brick 446-44d
+// (1b) Starfield 1fa-1ff
+// (1c) Furrows
+// (1d) Green Marble 4e7-4e8
+// (1e) No-Draw
+// (1f) Red Brick 47a-485
+// (20) Silver Marble 486-489
+// (21) Tan Marble 4e9-4ea
+// (22) Brown Brick 48f-496
+// (23) Grey Tile
+// (24) Red Tile
+// (25) Blue Tile
+// (26) Cave Entrance
+// (27) Cavewall (Dark Mtns for cave edge)
+// () Sand flagstone 201-204
+

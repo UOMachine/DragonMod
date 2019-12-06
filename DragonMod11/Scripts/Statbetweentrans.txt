@@ -1,0 +1,28 @@
+//Mod11 Stormcrow
+//Statbetweentrans 1.05
+01 18 Forest2Swamp.txt
+//03 04 Cave2Black.txt
+//03 04 CaveLow2black.txt
+//03 04 Cave2BlackRand.txt 
+//03 04 Cave2BlackWalls.txt
+//04 03 Black2CaveRand.txt 
+//04 03 Black2CaveWalls.txt 
+04 0e Black2Dungeon.txt
+04 0f Black2Sandstone.txt
+//04 11 Black2Dungeon2.txt
+//04 12 Black2Dungeon3.txt
+04 14 Black2Marble.txt
+08 18 Jungle2Swamp.txt
+0e 04 Dungeon2Black.txt
+0f 04 Sandstone2Black.txt
+10 06 Lava2Mountain.txt
+06 10 Mountain2Lava.txt
+//11 04 Dungeon2Black2.txt
+//12 04 Dungeon2Black3.txt
+14 04 Marble2Black.txt
+18 01 Swamp2Forest.txt
+18 08 Swamp2Jungle.txt
+18 19 Swamp2Grassbump.txt
+19 18 Grassbump2Swamp.txt
+00 1c Grass2Star.txt
+1c 00 Star2Grass.txt
